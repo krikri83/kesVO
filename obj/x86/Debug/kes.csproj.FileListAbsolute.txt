@@ -1,0 +1,6 @@
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\kesV0\kesV0\bin\Debug\kes.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\kesV0\kesV0\bin\Debug\kes.pdb
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\kesV0\kesV0\obj\x86\Debug\kes.csprojAssemblyReference.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\kesV0\kesV0\obj\x86\Debug\kes.csproj.CoreCompileInputs.cache
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\kesV0\kesV0\obj\x86\Debug\kes.exe
+C:\Users\Bamb75\Desktop\Mardi et Jeudi\Programmation Objet\Chaptitre 6\devoir\kesV0\kesV0\obj\x86\Debug\kes.pdb

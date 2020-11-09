@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kes.Client" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAIAAAAEAAAABAAAEAAAAAAAA=</HashCode>
+      <FileName>client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kes.Contrat">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAACIAAAAAgAAAAAAAAAAABAEQAQAAAAA=</HashCode>
+      <FileName>contrat.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="leClient" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="kes.Employe">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAIAAAAAAAAAAAAAEAIAAAAAI=</HashCode>
+      <FileName>employe.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="leGrade" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="kes.Grade" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAIAAAgAA=</HashCode>
+      <FileName>grade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kes.Program">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kes.Intervention">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAQAAAAAAAAAAAAAAACAAAAoAEAAQAAAAA=</HashCode>
+      <FileName>intervention.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="unEmploye" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
